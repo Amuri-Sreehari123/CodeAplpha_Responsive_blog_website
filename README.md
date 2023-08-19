@@ -1,1 +1,1 @@
-# CodeAplpha_Responsive_blog_website
+# CodeAlpha_BlogWebsite
